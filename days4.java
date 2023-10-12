@@ -10,3 +10,5 @@ public class ImputJava {
         String alamat = adhy.nextLine();
         
         System.out.println(" nama saya "+nama+" alamat saya "+alamat);
+}
+}
