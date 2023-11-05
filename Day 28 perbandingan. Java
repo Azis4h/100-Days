@@ -1,0 +1,19 @@
+package day15perbandingan;
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Masukkan angka :");
+        int number= scanner.nextInt();
+        
+        if (number % 10 == 0 && number % 5 == 0) {
+            System.out.println("yaa class");
+        } else if (number % 10 == 0) {
+            System.out.println(" 10");
+        } else if (number % 5 == 0) {
+            System.out.printl (" 5");
+        } else {
+            System.out.println("bodo inie tidak masuk dalam ketentuan angkamu");
+        }     
+    }
+}
