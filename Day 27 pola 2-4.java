@@ -1,7 +1,7 @@
-public class Main {
-    
+package pola.pkg2.pkg4;
+public class Pola24 {
     public static void main(String[] args) {
-       System.out.println("---------------------");
+  System.out.println("---------------------");
         System.out.println("Pola 2");
         System.out.println("---------------------");
         int pola2 = 5;
@@ -37,5 +37,7 @@ public class Main {
             }
             System.out.println("");
         }
+ 
     }
+    
 }
