@@ -6,7 +6,7 @@ public class PolaSegitiga {
             for (int b = 0; b <= a; j++) {
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println("*");
         }
 
 
