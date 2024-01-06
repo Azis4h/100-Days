@@ -7,7 +7,7 @@ public class arry3 {
             {5,8,19}
         };
         
-        System.out.print(nilai [0][1]);
-        System.out.print(nilai [1][0]);
+        System.out.println(nilai [0][1]);
+        System.out.println(nilai [1][0]);
 }
 }
